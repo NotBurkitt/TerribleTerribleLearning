@@ -1,0 +1,34 @@
+h1 {
+    color: rgba(26, 87, 156, 1);
+    text-align: center;
+}
+.CoolestClass {
+    background-color: indigo;
+}
+#Mark {
+    background-color: lavender;
+}
+body {
+    background-color: yellow;
+}
+ul {
+    padding-left: 200;
+    margin: 200;
+}
+.container {
+    width: 100%;
+    height: 100%;
+    margin-left: 0;
+    margin-right: 0;
+}
+#cirece {
+    background-color: thistle;
+    border: 1px solid salmon;
+    width: 800px;
+    height: 800px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
